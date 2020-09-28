@@ -1,6 +1,6 @@
 <?php
 /**
-* Will Test the actual and expected should be equal
+* Testing the actual and expected for equal assertion
 */
 function getResponse() {
 	$htmlResponse = $controller->buildPage($_REQUEST);
