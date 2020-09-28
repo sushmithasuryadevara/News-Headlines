@@ -1,6 +1,6 @@
 <?php
 /**
-*  Generates news template which is render into the browser
+*  Generates news template which renders into the browser
 */
 
 $countryCode = $_REQUEST['countryCode'];
