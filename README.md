@@ -1,7 +1,7 @@
 # News-Headlines
 The main aim of this app is to display the title and content of the top 10 headlines from the google news api (https://newsapi.org/).
 
-The codebase focuses 👓 on following key things:
+The codebase focuses on following things:
 - Code structuring, style and comments
 - Rendering the top 10 Headlines for every country individually.
 - Added the test case scenario.
